@@ -33,7 +33,6 @@ Il permet la création d’un marché clandestin, avec annonces, rappels, notifi
 
 ### ⚙️ Automatisations
 
-- 🔁 Rappel automatique à l’auteur d’une annonce après **3 jours**
 - 🧹 Suppression automatique des annonces après **5 jours**
 
 ---
