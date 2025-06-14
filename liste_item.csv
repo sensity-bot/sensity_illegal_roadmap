@@ -1,30 +1,30 @@
-icon,nom,lien,deployed,tracs
-handcuffs_key,Clé pour menottes
-hazmat,Tenue Hazmat
-radar_detector,Détecteur de radars
-protoxyde_azote,Bouteille de protoxyde d'azote
-brouilleur,Brouilleur
-spray,Bombe de peinture
-parachute,Parachute
-handcuffs,Paire de menottes
-perceuse,Perceuse sans fil
-lock-pick,Kit de crochetage
-drill_1,Perceuse robuste
-kit_shotgun,Kit Fusil à pompe
-kit_batteuse,Kit Mitrailleuse
-kit_pistolet,Kit Pistolet
-kit_sniper,Kit Fusil de précision
-kit_mitraillette,Kit Pistolet mitrailleur
-kit_assault,Kit Fusil d'assaut
-stock,Crosse
-bolt,Culasse
-grip,Poignet
-trigger,Gachette
-body_armor_plate,Plaque gilet par balle
-shotgun_barrel,Canon de fusil à pompe
-machine_gun_barrel,Canon de mitrailleuse
-pistol_barrel,Canon de pistolet
-sniper_rifle_barrel,Canon de fusil de précision
-assault_rifle_barrel,Canon de fusil d'assaut
-submachine_gun_barrel,Canon de mitraillette
-first_aid_kit,Kit de reanimation
+icon,nom,rep,deploy,img_link
+handcuffs_key,Clé pour menottes,Utilitaire/Outils,✅,https://i.imghippo.com/files/aAy7708AI.png
+hazmat,Tenue Hazmat,Stup/utilitaire,✅,https://i.imghippo.com/files/eBDk5405Pg.png
+radar_detector,Détecteur de radars,Utilitaire/Véhicules,✅,https://i.imghippo.com/files/fFo9232J.png
+protoxyde_azote,Bouteille de protoxyde d'azote,Utilitaire/Véhicules,✅,https://i.imghippo.com/files/iQ7741GU.png
+brouilleur,Brouilleur,Utilitaire/Outils,✅,https://i.imghippo.com/files/bx1461EQ.png
+spray,Bombe de peinture,Utilitaire/Outils,✅,https://i.imghippo.com/files/eXM4621ofM.png
+parachute,Parachute,Utilitaire/Outils,✅,https://i.imghippo.com/files/ABeL6366LaA.png
+handcuffs,Paire de menottes,Utilitaire/Outils,✅,https://i.imghippo.com/files/xuX7307iiQ.png
+perceuse,Perceuse sans fil,Utilitaire/Outils,✅,https://i.imghippo.com/files/Izi3251UhM.png
+lock-pick,Kit de crochetage,Utilitaire/Outils,✅,https://i.imghippo.com/files/GKZ4165chc.png
+drill_1,Perceuse robuste,Utilitaire/Outils,✅,https://i.imghippo.com/files/rJ5292kpI.png
+kit_shotgun,Kit Fusil à pompe,Kits,✅,https://i.imghippo.com/files/PzXi7181lKU.png
+kit_batteuse,Kit Mitrailleuse,Kits,✅,https://i.imghippo.com/files/PzXi7181lKU.png
+kit_pistolet,Kit Pistolet,Kits,✅,https://i.imghippo.com/files/PzXi7181lKU.png
+kit_sniper,Kit Fusil de précision,Kits,✅,https://i.imghippo.com/files/PzXi7181lKU.png
+kit_mitraillette,Kit Pistolet mitrailleur,Kits,✅,https://i.imghippo.com/files/PzXi7181lKU.png
+kit_assault,Kit Fusil d'assaut,Kits,✅,https://i.imghippo.com/files/PzXi7181lKU.png
+stock,Crosse,Composants,✅,https://i.imghippo.com/files/IsO6248mI.png
+bolt,Culasse,Composants,✅,https://i.imghippo.com/files/EHtv1419yA.png
+grip,Poignet,Composants,✅,https://i.imghippo.com/files/bU9361Rs.png
+trigger,Gachette,Composants,✅,https://i.imghippo.com/files/Jcp6735mFo.png
+body_armor_plate,Plaque gilet par balle,Composants,✅,https://i.imghippo.com/files/Lc1792aM.png
+shotgun_barrel,Canon de fusil à pompe,Canons,✅,https://i.imghippo.com/files/tzW4760qRE.png
+machine_gun_barrel,Canon de mitrailleuse,Canons,✅,https://i.imghippo.com/files/uYf2465Nws.png
+pistol_barrel,Canon de pistolet,Canons,✅,https://i.imghippo.com/files/RKVY6394Gn.png
+sniper_rifle_barrel,Canon de fusil de précision,Canons,✅,https://i.imghippo.com/files/WIn3019Nhs.png
+assault_rifle_barrel,Canon de fusil d'assaut,Canons,✅,https://i.imghippo.com/files/oPSc9106ho.png
+submachine_gun_barrel,Canon de mitraillette,Canons,✅,https://i.imghippo.com/files/VsG8368xM.png
+first_aid_kit,Kit de reanimation,Utilitaires,✅,https://i.imghippo.com/files/MBu2487AA.png
